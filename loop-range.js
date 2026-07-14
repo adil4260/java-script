@@ -8,7 +8,9 @@
 
 let num = 50;
 while (num <= 100) {
+
     console.log(num);
-    // num = 1+num
     num++;
+    // num = 1+num
+
 }
