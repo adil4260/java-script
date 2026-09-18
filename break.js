@@ -4,7 +4,7 @@
 //         break;
 //     }
 // }
-// console.log('life is break')
+// console.log('life is break') //0  1 2 3  4 5 6
 
 
 // ------while loop-----
@@ -14,9 +14,6 @@ while (n > 25) {
     if (n < 50) {
         break;
     }
-
     console.log(n);
     n--;
-
-
 }

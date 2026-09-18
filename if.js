@@ -26,6 +26,7 @@ let hasID = true;
 
 if (age >= 18 && hasID) {
     console.log("why ");
-} else {
+}
+else {
     console.log("hello");
 }
